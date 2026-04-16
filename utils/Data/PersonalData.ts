@@ -14,7 +14,7 @@ export const personalData = {
   email: "issakobayashi411@gmail.com",
   phone: "+813175972979",
   address: "Osaka",
-  github: "",
+  github: "https://github.com/gabcamp126",
   facebook: "https://www.facebook.com/profile.php?id=100092595303195",
   Instagram: "https://www.instagram.com/captain_ghost005",
   linkedIn: "https://www.linkedin.com/in/abdulbasit005/",

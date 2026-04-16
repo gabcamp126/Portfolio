@@ -1,16 +1,7 @@
 
-# 🌐 Sasaki — Personal Portfolio
+# 🌐 Kobayashi — Personal Portfolio
 
 Welcome to my **developer portfolio** built with **Next.js 15**, **Tailwind CSS**, and modern web tools. This site showcases my journey, skills, and projects — all wrapped in a sleek, animated, and responsive UI.
-
----
-## 📸 Screenshot
-
-![Homepage of Sasaki’s Portfolio](public/Website-overview.png)
----
-## 🚀 Live Demo
-
-🔗 [Visit Portfolio Website](https://abdul-basit-portfolio-website.vercel.app/)
 
 ---
 
@@ -106,6 +97,6 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 Got a project in mind or just want to say hi?
 
-📧 [rajaabdulbasit005@gmail.com](mailto:rajaabdulbasit005@gmail.com)  
+📧 [issakobayashi411@gmail.com](mailto:issakobayashi411@gmail.com)  
 
 ```

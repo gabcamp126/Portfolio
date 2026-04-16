@@ -150,34 +150,6 @@ const ProjectCard = ({ project }: ProjectCardProps) => {
           </CardContent>
         </div>
 
-        <CardFooter className="p-6 pt-2 flex gap-4">
-          <Link href={project.demo || "#"} target="_blank" className="flex-1">
-            <Button
-              className={`w-full h-11 rounded-xl text-xs font-bold uppercase tracking-widest transition-all duration-300 flex items-center justify-center gap-2 border border-white/10 ${
-                project.demo
-                  ? "bg-white/5 hover:bg-red-600 text-white hover:border-red-500 shadow-xl hover:shadow-red-600/20"
-                  : "bg-white/2 text-slate-800 cursor-not-allowed border-none"
-              }`}
-              disabled={!project.demo}
-            >
-              <Globe className="w-4 h-4" />
-              Live Demo
-            </Button>
-          </Link>
-          <Link href={project.code || "#"} target="_blank" className="flex-1">
-            <Button
-              className={`w-full h-11 rounded-xl text-xs font-bold uppercase tracking-widest transition-all duration-300 flex items-center justify-center gap-2 border border-white/10 ${
-                project.code
-                  ? "bg-white/5 hover:bg-red-950 text-white hover:border-red-800 shadow-xl hover:shadow-red-950/20"
-                  : "bg-white/2 text-slate-800 cursor-not-allowed border-none"
-              }`}
-              disabled={!project.code}
-            >
-              <Code className="w-4 h-4" />
-              Source
-            </Button>
-          </Link>
-        </CardFooter>
       </Card>
     </div>
   );

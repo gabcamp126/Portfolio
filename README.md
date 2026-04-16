@@ -97,6 +97,6 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 Got a project in mind or just want to say hi?
 
-📧 [rajaabdulbasit005@gmail.com](mailto:issakobayashi411@gmail.com)  
+📧 [issakobayashi411@gmail.com](mailto:issakobayashi411@gmail.com)  
 
 ```
